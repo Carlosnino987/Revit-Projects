@@ -13,7 +13,7 @@ Here you'll find a selection of projects I completed during my university studie
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b>
 
 <h2>Program walk-through:</h2>
 
@@ -30,8 +30,8 @@ Video of a Building: <br/>
   <img src="https://github.com/Carlosnino987/Revit-Projects/blob/main/undefined-Imgur-ezgif.com-optimize.gif" width="80%" alt="Building Animation">
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Outputs from Revit:  <br/>
+<img src="https://imgur.com/KIiI9mV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
