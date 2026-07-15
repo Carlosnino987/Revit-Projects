@@ -27,7 +27,9 @@ Exploded view of the assembly of a pilot die:  <br/>
 <br />
 <br />
 Video of a Building: <br/>
-[Building Animation]((https://github.com/Carlosnino987/Revit-Projects/blob/main/undefined-Imgur-ezgif.com-optimize.gif))
+<p align="center">
+  <img src="https://github.com/Carlosnino987/Revit-Projects/blob/main/undefined-Imgur-ezgif.com-optimize.gif" width="80%" alt="Building Animation">
+</p>
 <br />
 <br />
 Confirm your selection:  <br/>
