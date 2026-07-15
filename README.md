@@ -27,7 +27,8 @@ Exploded view of the assembly of a pilot die:  <br/>
 <br />
 <br />
 Video of a Building: <br/>
-<img src="https://imgur.com/a/6F8oy5b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+# My GIF
+![](https://github.com/Carlosnino987/Revit-Projects/blob/main/undefined-Imgur-ezgif.com-optimize.gif)
 <br />
 <br />
 Confirm your selection:  <br/>
