@@ -6,23 +6,37 @@ Here you'll find a selection of projects I completed during my university studie
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Softwares used Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Revit</b> 
+- <b>Edificius</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b>
+- <b>Windows 10</b>
+
+<h2>Skills</h2>
+
+- BIM Modeling
+- Structural Modeling
+- Architectural Modeling
+- Families
+- Sheets
+- Detailing
+- Quantities
+- Documentation
+- Coordination</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
 Rendering your Revit projects: <br/>
+  In this project, my teammates and I designed a steel structure from scratch as part of a university engineering project. The work involved performing structural analysis by calculating the loads acting on beams, columns, and the steel frame, as well as determining the horizontal and vertical force components for different load conditions and angles of inclination. Revit was not only used for 3D modeling but also as a tool to develop a comprehensive BIM model. We created and customized families for different types of beams, columns, and ceilings, and used Model In-Place components to model structural details such as pin (hinged) supports and other connection elements. In addition, we produced technical documentation, generated construction views, and applied Revit's rendering tools to create realistic visualizations of the final structure. This project strengthened my understanding of structural engineering principles while improving my BIM modeling, technical documentation, and collaboration skills within a multidisciplinary team.
 <img src="https://imgur.com/4w4FLJd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Exploded view of the assembly of a pilot die:  <br/>
+  In this project we see the reinforcement
 <img src="https://imgur.com/wfYP7ud.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
