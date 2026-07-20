@@ -39,6 +39,9 @@ In this project, my teammates and I designed a steel structure from scratch as p
 Model in Place examples:  <br/>
 <img src="https://imgur.com/NUMN8We.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Model in Place examples completed:  <br/>
+<img src="https://imgur.com/OT2hsU3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 Exploded view of the assembly of a pile cap:  <br/>
 
