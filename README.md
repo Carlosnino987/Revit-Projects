@@ -63,8 +63,11 @@ Revit drawings are important because they show the layout of a project. For exam
 <img src="https://imgur.com/KIiI9mV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Bocatoma:  <br/>
+Water intake:  <br/>
 <img src="https://imgur.com/29BIJTX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Water tank:  <br/>
+<img src="https://imgur.com/LWoCmFY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
